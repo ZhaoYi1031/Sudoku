@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  unittest.cpp
+e:\vs_repo\unittest\sudoku.h(147): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+e:\vs_repo\unittest\unittest.cpp(48): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(242): note: 参见“freopen”的声明
+    正在创建库 E:\VS_repo\sudoku\Debug\UnitTest.lib 和对象 E:\VS_repo\sudoku\Debug\UnitTest.exp
+  UnitTest.vcxproj -> E:\VS_repo\sudoku\Debug\UnitTest.dll
+  UnitTest.vcxproj -> E:\VS_repo\sudoku\Debug\UnitTest.pdb (Partial PDB)
