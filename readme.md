@@ -112,8 +112,20 @@ bool check(int a[M]) {//判断终盘是不是一个数独	rep(i, 0, 80) {		a[i
 bool deleteElement(int pos, int r) {	int i;	if (a[pos][r] == 1)//如果这个pos位置不能填i,代表之前已经删除过，直接返回true		return true;	a[pos][r] = 1;	if (++a[pos][0] == 9)//增加了一个限制后，没有可填的元素了，直接返回false		return false;	if (a[pos][0] == 8)//优化！某一个点只剩一个元素可以填，那么这个点的值也就固定，我们应当立即去modify这个点的值。	{		for (i = 1; i <= 9; ++i)			if (a[pos][i] == 0)//找到是哪个值可以填				break;		if (!modifyElement(pos, i))			return false;	}	return true;}
 ```
 ## GUI
+-------9月26号-------
 仍在施工中owo.
 准备用qt而不是C#
+
+-------9月28号00:34--------
+与partner的合作下，基本造完轮子了
+功能暂时还比较少owo
+效果图如下：
+![](https://i.loli.net/2017/09/28/59cbd97c995dd.jpg)
+
+----------
+填完之后可以进行检测：
+![](https://i.loli.net/2017/09/28/59cbd97d0543b.jpg)
+
 
 ## 总结
 
