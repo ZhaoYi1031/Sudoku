@@ -5,6 +5,8 @@ GUIBIN/sudokuGUI.exe
 
 ![](1.jpg)
 
+<img src="1.jpg" width="20%" height="20%"/>
+
 # Usage
 
 BIN/sudoku.exe
