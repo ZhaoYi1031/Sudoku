@@ -1,12 +1,12 @@
 
-# UI
+## 【GUI】
 
 GUIBIN/sudokuGUI.exe
 
 
-<img src="1.jpg" width="30%" height="30%"/>
+<img src="1.jpg" width="30%" height="40%"/>
 
-# Usage
+##  Usage
 
 BIN/sudoku.exe
 
@@ -19,7 +19,7 @@ BIN/sudoku.exe
 
 
 
-# About
+##  About
 
 You can read [https://www.ohazyi.com/sudoku/](https://www.ohazyi.com/sudoku/) or [http://www.cnblogs.com/ohazyi/p/7595723.html](http://www.cnblogs.com/ohazyi/p/7595723.html) for more information.
 
