@@ -4,7 +4,7 @@
 GUIBIN/sudokuGUI.exe
 
 
-<img src="1.jpg" width="80%" height="80%"/>
+<img src="1.jpg" width="50%" height="50%"/>
 
 # Usage
 
