@@ -3,9 +3,8 @@
 
 GUIBIN/sudokuGUI.exe
 
-![](1.jpg)
 
-<img src="1.jpg" width="20%" height="20%"/>
+<img src="1.jpg" width="80%" height="80%"/>
 
 # Usage
 
