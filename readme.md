@@ -18,7 +18,7 @@ BIN/sudoku.exe
 GUIBIN/sudokuGUI.exe
 
 
-<img src="1.jpg" width="30%" height="80%"/>
+<img src="1.jpg" width="30%" height="100%"/>
 
 
 
